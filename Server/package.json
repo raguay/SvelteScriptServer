@@ -1,0 +1,22 @@
+{
+  "name": "scriptserver",
+  "version": "1.0.0",
+  "description": "This is a simple local server for launch applications and scripts on the computer from a tablet or smart phone.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "scripts"
+  ],
+  "author": "Richard Guay",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1"
+  }
+}

@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf8'>
+  <meta name='viewport' content='width=device-width'>
+
+  <title>Script Server</title>
+  <link rel='stylesheet' href='css/global.css'>
+  <link rel='stylesheet' href='css/bundle.css'>
+  <script src="js/socket.io.js"></script>
+  <script>
+    document.onload = function() {
+      globalThis.io = io();
+      console.log('initialized the websocket');
+    }
+  </script>
+</head>
+
+<body>
+  <script src='js/bundle.js'></script>
+</body>
+
+</html>
