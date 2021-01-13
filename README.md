@@ -52,6 +52,9 @@ in the `main.js` file in the UI. That structure contains the contents of the
 button and the information needed to lauch scripts. I left a few to give you 
 an example of how I use it.
 
+Even though my examples will only work on a Mac, you can use this on any system 
+that supports nodejs. Let me know how you make use of this system.
+
 ## Todo
 
 This is part of a larger project of mine. Therefore, as I upgrade it there, 
