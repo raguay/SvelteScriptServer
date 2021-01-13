@@ -1,7 +1,7 @@
 ## Svelte Script Server
 
 I was asked somewhere about what to do with an extra phone. I mentioned that I use 
-one as launch pad for running scripts on my main computer using a homebrewed solution. 
+one as a launch pad for running scripts on my main computer using a homebrewed solution. 
 I was asked to share it. But, it is entertwined in another project of mine. So, I've 
 pulled it out, refactored, and added a QR code to connect the phone. Now, anyone can 
 use my system. But, I can't remember where and who asked me to do this. I hope he finds 
