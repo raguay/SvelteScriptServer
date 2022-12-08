@@ -14,9 +14,9 @@
   "author": "Richard Guay",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "child_process": "^1.0.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "serve-static": "^1.14.1"
   }
 }
